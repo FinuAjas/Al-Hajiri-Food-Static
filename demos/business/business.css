@@ -19,7 +19,7 @@ body {
 }
 /* header */
 header .navbar-brand img {
-    max-height: 26px;
+    max-height: 60px;
 }
 .navbar .navbar-nav .nav-link {
     font-size: 17px;
